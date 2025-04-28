@@ -99,8 +99,6 @@ Browser=firefox
 
 ## License
 
-This project is intended for personal use. To share publicly, consider adding an MIT License:
-
 ```text
 MIT License
 
