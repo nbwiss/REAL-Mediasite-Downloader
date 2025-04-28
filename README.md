@@ -1,4 +1,5 @@
-# Mediasite Batch Downloader for Lectures
+# REAL Mediasite Downloader
+## Mediasite Batch Downloader for Lectures
 
 A Python script designed to download Mediasite lecture videos in bulk using **yt-dlp**, addressing the lack of information online about this VERY specific problem I have.
 
